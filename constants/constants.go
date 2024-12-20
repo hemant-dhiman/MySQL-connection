@@ -1,0 +1,5 @@
+package constants
+
+const (
+	ENV_PANEL_MYSQL_CONNECTION_STRING = "MYSQL_PANEL_CONNECTION_STRING"
+)
